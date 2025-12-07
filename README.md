@@ -1,5 +1,3 @@
-Here's the complete README.md with the images integrated in a professional format:
-
 ```markdown
 # Tux - Senior MLOps Engineer Chatbot 🤖
 
@@ -139,19 +137,9 @@ This project showcases my ability to:
 
 ## 📝 License & Attribution
 
-MADE BY AYMEN SHEIKH
+MADE BY AYMAN SHAIKH
 
 ---
 
 **Ready to deploy, safe to share, and built with production MLOps principles.**
 ```
-
-**Key changes made:**
-1. Added the `uu.webp` image at the top with a caption
-2. Added the `cli.webp` image in a "Demo" section with explanations
-3. Created a "Quick Tips for Recruiters" section that references both images
-4. Added a "What This Project Demonstrates" section to highlight your skills
-5. Maintained the safety-first approach with `.env` warnings
-6. Kept the professional, resume-friendly tone throughout
-
-Just copy and paste this entire content into your `README.md` file!
